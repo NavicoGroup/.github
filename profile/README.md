@@ -2,7 +2,7 @@
 
 ## 🙋‍ Your most trusted partner - Navico Group
 
-Whether on water or on the road, delivering an optimal user experience is at the heart of ASG’s business. It’s why we are proud to be the world’s leading supplier of products and integrated systems to the marine, RV, and Specialty Vehicle industries. Our broad portfolio of market leading brands in power management, digital control & monitoring, and networked devices are distributed globally to a diverse aftermarket and OEM customer base. ASG is driven, every day, to be the world’s most trusted partner to the marine and mobile industries. 
+Whether on water or on the road, delivering an optimal user experience is at the heart of Navico Group’s business. It’s why we are proud to be the world’s leading supplier of products and integrated systems to the marine, RV, and Specialty Vehicle industries. Our broad portfolio of market leading brands in power management, digital control & monitoring, and networked devices are distributed globally to a diverse aftermarket and OEM customer base. Navico Group is driven, every day, to be the world’s most trusted partner to the marine and mobile industries. 
 
 <!--
 
