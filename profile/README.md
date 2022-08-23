@@ -2,7 +2,9 @@
 
 ## 🙋‍ Your most trusted partner - Navico Group
 
-Whether on water or on the road, delivering an optimal user experience is at the heart of Navico Group’s business. It’s why we are proud to be the world’s leading supplier of products and integrated systems to the marine, RV, and Specialty Vehicle industries. Our broad portfolio of market leading brands in power management, digital control & monitoring, and networked devices are distributed globally to a diverse aftermarket and OEM customer base. Navico Group is driven, every day, to be the world’s most trusted partner to the marine and mobile industries. 
+Navico Group is the global leader in technology, systems and solutions for a variety of industries, from Marine & RV to Specialty Vehicles and beyond. Our broad portfolio consists of the industry's leading brands in Power Systems, Digital Systems, Fishing Systems, and Performance Components including Ancor, Attwood, B&G, BEP, Blue Sea Systems, C-MAP, CZone, Garelick, Lenco, Lowrance, Marinco, MotorGuide, Mastervolt, ProMariner, RELiON, Simrad and Whale. 
+
+Our team is committed and driven, every day, to be the most trusted supply partner to the marine and mobile industries...and beyond
 
 <!--
 
