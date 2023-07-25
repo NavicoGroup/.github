@@ -15,3 +15,6 @@ Our team is committed and driven, every day, to be the most trusted supply partn
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+![image](https://github.com/NavicoGroup/.github/assets/60661214/dfb7e96f-f7a4-403b-98dd-2295933364a5#gh-dark-mode-only)
+
+
