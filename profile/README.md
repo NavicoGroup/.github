@@ -15,8 +15,3 @@ Our team is committed and driven, every day, to be the most trusted supply partn
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60661214/255798599-034b460a-02ff-4cde-bb02-a49f52da8584.png" alt="Benchmark" width="600" style="background-color:green">
-</p>
-
-
